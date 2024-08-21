@@ -8,6 +8,6 @@ Using this application will allow you to monitor the movement of a car module st
   3 - Software application for the DC motor movement.
   4 - Serial communication between the esp32 and a control unit like a Bluetooth module.
 
-follow along this application for more details.
-
+Follow the article for more details.
+https://forum.arduino.cc/t/dc-motors-back-emf/1190004
 
